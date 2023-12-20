@@ -33,7 +33,7 @@ And this is the conextions table
 
 ## Online Simulation project Wokwi
 
-- [Here](https://wokwi.com/projects/384561989763778561) you can see my public my online public project on Wokwi
+- [Here](https://wokwi.com/projects/384561989763778561) you can see my public simulation on Wokwi
 
 ## Adafruit project Dashboard
 
